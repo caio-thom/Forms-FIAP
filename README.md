@@ -1,4 +1,3 @@
 # Forms-FIAP-
 
-This code is designed to help teachers in the classroom ask supporters and monitors for help during class.
-He sends the items to a team in a protaform (Microsoft Teams) used by the univercity.
+Esse forumulario foi criado para ajudar os professores em relação s chamdos durante as aulas, o formulario mand um post para o teams da eqipe de suporte com a descriçao do problema 
